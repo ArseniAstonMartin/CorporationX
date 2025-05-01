@@ -19,5 +19,5 @@
     url = https://github.com/ArseniAstonMartin/url_shortener_service.git
 
 [submodule "account_service"]
-    path = account_service
-    url = https://github.com/ArseniAstonMartin/account_service.git
+	path = account_service
+	url = https://github.com/ArseniAstonMartin/account_service
