@@ -1,22 +1,22 @@
 [submodule "post_service"]
     path = post_service
-    url = https://github.com/ArseniAstonMartin/post_service.git
+    url = https://github.com/ArseniAstonMartin/post_service
 
 [submodule "project_service"]
     path = project_service
-    url = https://github.com/ArseniAstonMartin/project_service.git
+    url = https://github.com/ArseniAstonMartin/project_service
 
 [submodule "user_service"]
     path = user_service
-    url = https://github.com/ArseniAstonMartin/user_service.git
+    url = https://github.com/ArseniAstonMartin/user_service
 
 [submodule "notification_service"]
     path = notification_service
-    url = https://github.com/ArseniAstonMartin/notification_service.git
+    url = https://github.com/ArseniAstonMartin/notification_service
 
 [submodule "url_shortener_service"]
     path = url_shortener_service
-    url = https://github.com/ArseniAstonMartin/url_shortener_service.git
+    url = https://github.com/ArseniAstonMartin/url_shortener_service
 
 [submodule "account_service"]
 	path = account_service
