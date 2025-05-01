@@ -21,3 +21,6 @@
 [submodule "account_service"]
 	path = account_service
 	url = https://github.com/ArseniAstonMartin/account_service
+[submodule "CorporationX-docker"]
+	path = CorporationX-docker
+	url = https://github.com/ArseniAstonMartin/CorporationX-docker
